@@ -3,6 +3,6 @@
 *	Reward player boosted bullets and ultimate at a certain stage
 * keep tracking player's score
 
-<img src = "airplane%20shooting%20game/screenshot1.PNG" >
-<img src = "airplane%20shooting%20game/screenshot2.PNG">
+<img src = "airplane%20shooting%20game/screenshot1.PNG" ><img src = "airplane%20shooting%20game/screenshot2.PNG">
+
 

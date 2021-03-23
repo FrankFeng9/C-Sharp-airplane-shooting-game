@@ -1,0 +1,79 @@
+E:\PlaneTest\PlaneTest\obj\Debug\ResolveAssemblyReference.cache
+E:\PlaneTest\PlaneTest\obj\Debug\PlaneTest.Properties.Resources.resources
+E:\PlaneTest\PlaneTest\obj\Debug\PlaneTest.csproj.GenerateResource.Cache
+E:\PlaneTest\PlaneTest\bin\Debug\PlaneTest.exe
+E:\PlaneTest\PlaneTest\bin\Debug\PlaneTest.pdb
+E:\PlaneTest\PlaneTest\obj\Debug\PlaneTest.exe
+E:\PlaneTest\PlaneTest\obj\Debug\PlaneTest.pdb
+E:\PlaneTest2\PlaneTest\obj\Debug\PlaneTest.exe
+E:\PlaneTest2\PlaneTest\obj\Debug\PlaneTest.pdb
+E:\PlaneTest2\PlaneTest\bin\Debug\PlaneTest.exe
+E:\PlaneTest2\PlaneTest\bin\Debug\PlaneTest.pdb
+E:\PlaneTest2\PlaneTest\obj\Debug\ResolveAssemblyReference.cache
+E:\PlaneTest2\PlaneTest\obj\Debug\PlaneTest.Properties.Resources.resources
+E:\PlaneTest2\PlaneTest\obj\Debug\PlaneTest.csproj.GenerateResource.Cache
+E:\PlaneTest3\PlaneTest\obj\Debug\PlaneTest.exe
+E:\PlaneTest3\PlaneTest\obj\Debug\PlaneTest.pdb
+E:\PlaneTest3\PlaneTest\bin\Debug\PlaneTest.exe
+E:\PlaneTest3\PlaneTest\bin\Debug\PlaneTest.pdb
+E:\PlaneTest3\PlaneTest\obj\Debug\ResolveAssemblyReference.cache
+E:\PlaneTest3\PlaneTest\obj\Debug\PlaneTest.Properties.Resources.resources
+E:\PlaneTest3\PlaneTest\obj\Debug\PlaneTest.csproj.GenerateResource.Cache
+E:\PlaneTest4\PlaneTest\obj\Debug\PlaneTest.exe
+E:\PlaneTest4\PlaneTest\obj\Debug\PlaneTest.pdb
+E:\PlaneTest4\PlaneTest\bin\Debug\PlaneTest.exe
+E:\PlaneTest4\PlaneTest\bin\Debug\PlaneTest.pdb
+E:\PlaneTest4\PlaneTest\obj\Debug\ResolveAssemblyReference.cache
+E:\PlaneTest4\PlaneTest\obj\Debug\PlaneTest.Properties.Resources.resources
+E:\PlaneTest4\PlaneTest\obj\Debug\PlaneTest.csproj.GenerateResource.Cache
+E:\PlaneTest5\PlaneTest\obj\Debug\PlaneTest.exe
+E:\PlaneTest5\PlaneTest\obj\Debug\PlaneTest.pdb
+E:\PlaneTest5\PlaneTest\obj\Debug\ResolveAssemblyReference.cache
+E:\PlaneTest5\PlaneTest\obj\Debug\PlaneTest.Properties.Resources.resources
+E:\PlaneTest5\PlaneTest\obj\Debug\PlaneTest.csproj.GenerateResource.Cache
+E:\PlaneTest5\PlaneTest\bin\Debug\PlaneTest.exe
+E:\PlaneTest5\PlaneTest\bin\Debug\PlaneTest.pdb
+E:\PlaneTest6\PlaneTest\obj\Debug\PlaneTest.exe
+E:\PlaneTest6\PlaneTest\obj\Debug\PlaneTest.pdb
+E:\PlaneTest6\PlaneTest\bin\Debug\PlaneTest.exe
+E:\PlaneTest6\PlaneTest\bin\Debug\PlaneTest.pdb
+E:\PlaneTest6\PlaneTest\obj\Debug\ResolveAssemblyReference.cache
+E:\PlaneTest6\PlaneTest\obj\Debug\PlaneTest.Properties.Resources.resources
+E:\PlaneTest6\PlaneTest\obj\Debug\PlaneTest.csproj.GenerateResource.Cache
+E:\PlaneTest7\PlaneTest\obj\Debug\PlaneTest.exe
+E:\PlaneTest7\PlaneTest\obj\Debug\PlaneTest.pdb
+E:\PlaneTest7\PlaneTest\bin\Debug\PlaneTest.exe
+E:\PlaneTest7\PlaneTest\bin\Debug\PlaneTest.pdb
+E:\PlaneTest7\PlaneTest\obj\Debug\ResolveAssemblyReference.cache
+E:\PlaneTest7\PlaneTest\obj\Debug\PlaneTest.Properties.Resources.resources
+E:\PlaneTest7\PlaneTest\obj\Debug\PlaneTest.csproj.GenerateResource.Cache
+E:\PlaneTest8\PlaneTest\obj\Debug\PlaneTest.exe
+E:\PlaneTest8\PlaneTest\obj\Debug\PlaneTest.pdb
+E:\PlaneTest8\PlaneTest\bin\Debug\PlaneTest.exe
+E:\PlaneTest8\PlaneTest\bin\Debug\PlaneTest.pdb
+E:\PlaneTest8\PlaneTest\obj\Debug\ResolveAssemblyReference.cache
+E:\PlaneTest8\PlaneTest\obj\Debug\PlaneTest.Properties.Resources.resources
+E:\PlaneTest8\PlaneTest\obj\Debug\PlaneTest.csproj.GenerateResource.Cache
+C:\Users\X\Desktop\PlaneTest\PlaneTest8\PlaneTest\obj\Debug\PlaneTest.exe
+C:\Users\X\Desktop\PlaneTest\PlaneTest8\PlaneTest\obj\Debug\PlaneTest.pdb
+C:\Users\X\Desktop\PlaneTest\PlaneTest8\PlaneTest\bin\Debug\PlaneTest.exe
+C:\Users\X\Desktop\PlaneTest\PlaneTest8\PlaneTest\bin\Debug\PlaneTest.pdb
+C:\Users\X\Desktop\PlaneTest\PlaneTest8\PlaneTest\obj\Debug\PlaneTest.csprojResolveAssemblyReference.cache
+C:\Users\X\Desktop\PlaneTest\PlaneTest8\PlaneTest\obj\Debug\PlaneTest.Properties.Resources.resources
+C:\Users\X\Desktop\PlaneTest\PlaneTest8\PlaneTest\obj\Debug\PlaneTest.csproj.GenerateResource.Cache
+E:\这是.NET\PlaneTest8\PlaneTest\bin\Debug\PlaneTest.exe
+E:\这是.NET\PlaneTest8\PlaneTest\bin\Debug\PlaneTest.pdb
+E:\这是.NET\PlaneTest8\PlaneTest\obj\Debug\PlaneTest.csprojAssemblyReference.cache
+E:\这是.NET\PlaneTest8\PlaneTest\obj\Debug\PlaneTest.Properties.Resources.resources
+E:\这是.NET\PlaneTest8\PlaneTest\obj\Debug\PlaneTest.csproj.GenerateResource.cache
+E:\这是.NET\PlaneTest8\PlaneTest\obj\Debug\PlaneTest.exe
+E:\这是.NET\PlaneTest8\PlaneTest\obj\Debug\PlaneTest.pdb
+E:\这是.NET\PlaneTest8\PlaneTest\obj\Debug\PlaneTest.GamePlane.resources
+C:\Users\F\Documents\WeChat Files\Liris3\FileStorage\File\2020-03\打飞机\PlaneTest\bin\Debug\PlaneTest.exe
+C:\Users\F\Documents\WeChat Files\Liris3\FileStorage\File\2020-03\打飞机\PlaneTest\bin\Debug\PlaneTest.pdb
+C:\Users\F\Documents\WeChat Files\Liris3\FileStorage\File\2020-03\打飞机\PlaneTest\obj\Debug\PlaneTest.csprojAssemblyReference.cache
+C:\Users\F\Documents\WeChat Files\Liris3\FileStorage\File\2020-03\打飞机\PlaneTest\obj\Debug\PlaneTest.GamePlane.resources
+C:\Users\F\Documents\WeChat Files\Liris3\FileStorage\File\2020-03\打飞机\PlaneTest\obj\Debug\PlaneTest.Properties.Resources.resources
+C:\Users\F\Documents\WeChat Files\Liris3\FileStorage\File\2020-03\打飞机\PlaneTest\obj\Debug\PlaneTest.csproj.GenerateResource.cache
+C:\Users\F\Documents\WeChat Files\Liris3\FileStorage\File\2020-03\打飞机\PlaneTest\obj\Debug\PlaneTest.exe
+C:\Users\F\Documents\WeChat Files\Liris3\FileStorage\File\2020-03\打飞机\PlaneTest\obj\Debug\PlaneTest.pdb
